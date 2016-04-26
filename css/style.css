@@ -53,6 +53,24 @@ body{
 	font: 18px/35px Roboto, sans-serif;
 	font-weight: 300;
 }
+.header{ 
+	color: #fff;
+	font: 48px Roboto, helvetica, arial, sans-serif;
+	font-weight: 700;
+	width: 100vw;
+	height: 500px;
+	background-color: #0000ff;
+	/*background: url(../images/bg.jpg) no-repeat center center fixed; 
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;*/
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	resize: both;
+	overflow: auto;
+}
 section p {
 	width: 668px;
 	margin: 0 auto;
@@ -72,21 +90,3 @@ section em {
 	display: block;
 	font-weight: 400;
 }
-.header{ 
-	color: #fff;
-	font: 48px Roboto, helvetica, arial, sans-serif;
-	font-weight: 700;
-	width: 100vw;
-	height: 500px;
-	background: url(../images/bg.jpg) no-repeat center center fixed; 
-	-webkit-background-size: cover;
-	-moz-background-size: cover;
-	-o-background-size: cover;
-	background-size: cover;
-	display: flex;
-	justify-content: center;
-	align-items: center;
-	resize: both;
-	overflow: auto;
- }
-.
